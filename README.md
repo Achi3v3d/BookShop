@@ -1,2 +1,2 @@
 # BookShop
-Book shop
+shop program with ways to calculate cost
